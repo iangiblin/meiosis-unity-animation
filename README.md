@@ -16,8 +16,9 @@ You can see a  <A HREF="https://youtu.be/4Z_fczEU6d8">video of the program runni
 * The main cell has a Finite State Machine (FSM) which is based upon some course work from Jason Weimann
 (<a href="https://www.youtube.com/c/Unity3dCollege"><B>link to YouTube channel</B></A>)
 * Within each state (set up in OnEnter), we sequence a number of events like the cell growing, based upon a timer
+* To see a good example, look at the Phase1_Interphase.cs code.
 * At the end of each phase (in OnExit) we clear all timers from the state machine rady for the next phase.
-* Cells inrernally have a counter 
+* Cells internally have a counter for what generation they are, so they know if they're in Cycle I or Cycle II
 
 <B>Other Notes</B>
 
