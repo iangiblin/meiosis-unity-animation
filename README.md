@@ -2,7 +2,7 @@
 
 A short game-jam-like-project to create a procedural animation of <a href="https://en.wikipedia.org/wiki/Meiosis"><B>cell meiosis</B></A>
 
-This project was originall done under pretty tight time constraints 
+Original constraints:
 
 * Needs to be done in 10-12 hours
 * Should not include any paid assets or proprietary code
