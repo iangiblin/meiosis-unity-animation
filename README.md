@@ -17,7 +17,7 @@ You can see a  <A HREF="https://youtu.be/4Z_fczEU6d8">video of the program runni
 <a href="https://www.youtube.com/c/Unity3dCollege"><B>Jason Weimann</B></A>
 * Within each state (set up in OnEnter), we sequence a number of events like the cell growing, based upon a timer
 * To see a good OnEnter example, look at <A HREF="https://github.com/iangiblin/meiosis-unity-animation/blob/a99909a9ca75017445bbef0a6950aa1426c652ad/Assets/Scripts/CellState/Phase1_Interphase.cs"><B>Phase1_Interphase</B></A>
-* At the end of each phase (in OnExit) we clear all timers from the state machine rady for the next phase.
+* At the end of each phase (in OnExit) we clear all timers from the state machine ready for the next phase.
 * Cells internally have a counter for what generation they are, so they know if they're in Cycle I or Cycle II
 
 <B>Other Notes</B>
