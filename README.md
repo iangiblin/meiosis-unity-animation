@@ -2,7 +2,9 @@
 
 A short game-jam-like-project to create a procedural animation of <a href="https://en.wikipedia.org/wiki/Meiosis"><B>cell meiosis</B></A> using <a href="https://unity.com/"><B>Unity3D</B></A>
 
-Original constraints:
+DISCLAIMER: This code is more about <I>Unity and procedural animation</I> than about <I>biology</I> - please don't rely on this to learn about cell meioisis, and more importantly <B>if you are an actual cell, or made of cells, absolutely to not use this as a reproduction guide book</B>. Your children will not thank you.
+
+<B>Original constraints</B>
 
 * Needs to be done in 10-12 hours
 * Should not include any paid assets or proprietary code
