@@ -1,6 +1,6 @@
 # meiosis-unity-animation
 
-A short game-jam-like-project to create a procedural animation of <a href="https://en.wikipedia.org/wiki/Meiosis"><B>cell meiosis</B></A>
+A short game-jam-like-project to create a procedural animation of <a href="https://en.wikipedia.org/wiki/Meiosis"><B>cell meiosis</B></A> using <a href="https://unity.com/"><B>Unity3D</B></A>
 
 Original constraints:
 
@@ -10,6 +10,7 @@ Original constraints:
 * Flow should closely follow the whiteboard plan (see end)
 
 You can see a  <A HREF="https://youtu.be/4Z_fczEU6d8">video of the program running</A> (with me controlling the janky camera) here.
+You can also find the Windows exeutable version <A href="https://badpennygames.itch.io/meiosis"></B>on itch.io</B></A>
 
 <B>Code Architecture</B>
 
