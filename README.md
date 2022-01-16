@@ -9,7 +9,7 @@ Original constraints:
 * The core loop or flow should be understandable to a non-coder
 * Flow should closely follow the whiteboard plan (see end)
 
-You can see a video of the program running (with me controlling the janky camera) <A HREF="https://youtu.be/OLllRb2Odls"> here.</A>
+You can see a  <A HREF="https://youtu.be/4Z_fczEU6d8">video of the program running</A> (with me controlling the janky camera) here.
 
 <B>Code Architecture</B>
 
